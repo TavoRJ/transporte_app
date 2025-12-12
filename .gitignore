@@ -1,0 +1,7 @@
+
+tailwindcss.exe
+
+Thumbs.db
+
+img/qrs/*
+!img/qrs/.gitkeep

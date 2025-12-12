@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Si algún día quieres agregar estilos CSS normales (a la antigua),
+   puedes escribirlos aquí abajo y se incluirán en tu archivo final.
+*/
